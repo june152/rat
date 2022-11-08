@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rat/static/css/main.9966ef1b.css",
+    "main.js": "/rat/static/js/main.1160abab.js",
+    "index.html": "/rat/index.html",
+    "main.9966ef1b.css.map": "/rat/static/css/main.9966ef1b.css.map",
+    "main.1160abab.js.map": "/rat/static/js/main.1160abab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9966ef1b.css",
+    "static/js/main.1160abab.js"
+  ]
+}
